@@ -1,0 +1,64 @@
+{
+  "gender": {
+    "values": {
+      "man": 19,
+      "woman": 20,
+      "other": 1
+    },
+    "weight": 1
+  },
+  "age_group": {
+    "values": {
+      "16-20": 4,
+      "21-25": 4,
+      "26-30": 4,
+      "31-35": 4,
+      "36-40": 4,
+      "41-45": 4,
+      "46-50": 4,
+      "51-55": 4,
+      "56-60": 4,
+      "61-65": 2,
+      "66-70": 1,
+      "70+": 1
+    },
+    "weight": 1
+  },
+  "education": {
+    "values": {
+      "University 6+yrs": 6,
+      "University 4yrs": 8,
+      "University 2yrs": 10,
+      "High school": 10,
+      "Base education": 6
+    },
+    "weight": 1
+  },
+  "geography": {
+    "values": {
+      "dense": 10,
+      "medium": 20,
+      "sparse": 10
+    },
+    "weight": 1
+  },
+  "occupation": {
+    "values": {
+      "none": 5,
+      "school": 10,
+      "public": 10,
+      "big private": 10,
+      "other": 5
+    },
+    "weight": 1
+  },
+  "climate_worry": {
+    "values": {
+      "low": 8,
+      "living standard": 14,
+      "intl conflict": 12,
+      "societal collapse": 6
+    },
+    "weight": 1
+  }
+}

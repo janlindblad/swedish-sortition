@@ -1,5 +1,5 @@
 from services.personnummer_generator import get_random_personnummer, get_age
-from random import randint, choice, sample
+from random import randint, choice, choices, sample
 from pgeocode import Nominatim
 from mimesis import Person, Address
 from mimesis.locales import Locale
@@ -8,43 +8,45 @@ MEDIAN_INCOME = (100000, 600000)
 INCOME_INDICATOR = (5, 95)
 
 HOUSING_TYPES = ['apartment', 'house', 'shared', 'other']
-EDUCATION_TYPES = ['No education', 'High school', 'University']
+EDUCATION_TYPES = ['Base education', 'High school', 'University 2yrs', 'University 4yrs', 'University 6+yrs']
 
 def get_random_person():
     fake_person = Person(Locale.SV)
 
-    gender = fake_person.gender(iso5218 = True)
-    # In this version, we only support generation of binary people :/
-    if gender == 1:
-        gender = 'man'
-    elif gender == 2:
-        gender = 'woman'
-    else:
-        gender = choice(['man', 'woman'])
-
+    gender = choice(['man', 'woman'])
     personnummer = get_random_personnummer('19231231', '20080101', gender = gender)
+    if randint(0,100) < 3:
+        gender = 'other'
 
     age = get_age(personnummer)
 
-    age_group = _get_age_group(age, min = 15)
+    age_group = _get_age_group(age, min = 16, max=70, step=5)
 
     phone_numbers = []
     for _ in range(0, randint(0, 3)):
         phone_numbers.append(fake_person.telephone())
 
-    address_info = _generate_real_postcode()
+    #address_info = _generate_real_postcode()
     street = Address(Locale.SV).address()
-    postcode = address_info.postal_code
-    city = address_info.place_name
+    postcode = "12345"#address_info.postal_code
+    city = "Stockholm"#city = address_info.place_name
 
     address = ' '.join([street, postcode, city])
 
+    geography = choices(["dense", "medium", "sparse"], [10,20,10])[0]
+
     housing_type = choice(HOUSING_TYPES)
+
+    occupation = choices(["none", "school", "public", "big private", "other"],
+                         [5, 10, 10, 10, 5])[0]
 
     area_median_income = randint(MEDIAN_INCOME[0], MEDIAN_INCOME[1])
     income_indicator = (5 + (area_median_income - MEDIAN_INCOME[0]) * (INCOME_INDICATOR[1] - INCOME_INDICATOR[0]) / (MEDIAN_INCOME[1] - MEDIAN_INCOME[0]))
 
     education = choice(EDUCATION_TYPES)
+
+    climate_worry = choices(["low", "living standard", "intl conflict", "societal collapse"],
+                            [28, 16, 20, 6])[0]
 
     return {
             'first_name': fake_person.first_name(),
@@ -55,16 +57,19 @@ def get_random_person():
             'gender': gender,
             'address': address,
             'phone_numbers': phone_numbers,
-            'latitude': address_info.latitude,
-            'longitude': address_info.longitude,
+            'latitude': None,#address_info.latitude,
+            'longitude': None,#address_info.longitude,
+            'geography': geography,
             'street': street,
             'postcode': postcode,
             'city': city,
-            'region': address_info.state_name,
+            'region': None,#address_info.state_name,
+            'occupation': occupation,
             'housing_type': housing_type,
             'area_median_income': area_median_income,
             'income_indicator': income_indicator,
-            'education': education
+            'education': education,
+            'climate_worry': climate_worry
         }
 
 def get_random_people(amount):
