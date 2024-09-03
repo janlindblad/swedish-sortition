@@ -61,7 +61,7 @@ def map_answer(mapping, map_row, val):
       return "skip"
     return "ok"
   elif mapping == 1: # Phone number used as id number
-    map_row['personnummer'] = val.replace("'", "")
+    map_row['personnummer'] = val.replace("'", "").replace("+","")
     return "ok"
   elif mapping == 2: # District
     if val in ['Rosengård', 'Fosie', 'Hyllie']:

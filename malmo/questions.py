@@ -5,7 +5,7 @@ def get_questions(assembly_name):
       'First name':'first_name', #1
       'Last name':'last_name', #2
       'Phone number':1, #3
-      'Email':None, #4
+      'Email':'address', #4
       "För att delta i rådslaget behöver du ha möjlighet att vara med vid fyra kvällsmöten och en rådslagshelg.":0,
       'Jag godkänner att mina personuppgifter samlas in av Klimatriksdagen för att användas inom ramen för klimatrådslaget.':None,
       'Hur många år är du?':'age_group',
@@ -28,16 +28,22 @@ def get_questions(assembly_name):
 emails = set()
 phone_nums = set()
 fl_names = set()
-def check_duplicates(entry):
-  email = entry[4]
-  if email in emails:
-    print(f"WARNING: Duplicate email {email}")
-  emails.add(email)
-  phone_num = entry[3]
-  if phone_num in phone_nums:
-    print(f"WARNING: Duplicate phone number {phone_num}")
-  phone_nums.add(phone_num)
-  fl_name = (entry[1], entry[2])
-  if fl_name in fl_names:
-    print(f"WARNING: Duplicate first+last name {fl_name}")
-  fl_names.add(fl_name)
+def check_duplicates(assembly_name, entry):
+  if assembly_name in ['malmö24']:
+    messages = []
+    email = entry[4]
+    if email in emails:
+      messages += [f"email {email}"]
+    emails.add(email)
+    phone_num = entry[3]
+    if phone_num in phone_nums:
+      messages += [f"phone number {phone_num}"]
+    phone_nums.add(phone_num)
+    fl_name = (entry[1], entry[2])
+    if fl_name in fl_names:
+      messages += [f"first+last name {fl_name}"]
+    fl_names.add(fl_name)
+    if messages:
+      print(f"WARNING: Entry with duplicate {', '.join(messages)}")
+  else:
+    print(f"WARNING: No duplicates check for {assembly_name}")
