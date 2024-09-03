@@ -1,0 +1,209 @@
+first_name,last_name,personnummer,age,age_group,gender,address,phone_numbers,latitude,longitude,geography,street,postcode,city,region,occupation,housing_type,area_median_income,income_indicator,education,climate_worry,is_confirmed
+Nathalie ,Perera ,+46704375724,,30-39 år,Kvinna,,,,,OVIC,,,,,Arbete i kommun / region / stat,,,,Högskola mer än 3 år,Mycket orolig.,False
+Hanniyah ,Shabir,+46704362473,,30-39 år,Kvinna,,,,,OVIC,,,,,Arbete i företag / näringsliv,,,,Högskola mer än 3 år,Mycket orolig.,False
+Olle,Hedstrand,+46761865388,,50-64 år,Man,,,,,HLB,,,,,Arbete i företag / näringsliv,,,,Högskola,Mycket orolig.,False
+Alice,Thies-Lagergren,+46702774784,,20-29 år,Kvinna,,,,,RFH,,,,,Arbete i företag / näringsliv,,,,Högskola,Mycket orolig.,False
+Marie,Mattson,+46703681035,,50-64 år,Kvinna,,,,,HLB,,,,,Går i skola / trainee / arbetsträning,,,,Högskola mer än 3 år,Mycket orolig.,False
+Elin,Wrzoncki,+46763075657,,40-49 år,Kvinna,,,,,OVIC,,,,,Arbete i kommun / region / stat,,,,Högskola mer än 3 år,Mycket orolig.,False
+Lucero,Olivares,+46768263177,,30-39 år,Kvinna,,,,,SIK,,,,,Arbete i företag / näringsliv,,,,Högskola,Ganska orolig.,False
+Liisa ,Ståhlberg,+46733651017,,65- år,Kvinna,,,,,OVIC,,,,,Annat arbete / ideell organisation,,,,Högskola mer än 3 år,Mycket orolig.,False
+Valda,Mohlin,+46727198410,,65- år,Kvinna,,,,,OVIC,,,,,Pensionär,,,,Högskola,Ganska orolig.,False
+Maria,Isberg,+46702926549,,50-64 år,Kvinna,,,,,HLB,,,,,Annat arbete / ideell organisation,,,,Högskola mer än 3 år,Ganska orolig.,False
+Victoria,Boysen,+46737077497,,30-39 år,Kvinna,,,,,SIK,,,,,Arbete i företag / näringsliv,,,,Gymnasium,Ganska orolig.,False
+Sara,Eklund,+46707208048,,20-29 år,Kvinna,,,,,OVIC,,,,,Arbete i kommun / region / stat,,,,Högskola mer än 3 år,Mycket orolig.,False
+Theresa,Jürgensen,+46764464769,,30-39 år,Kvinna,,,,,RFH,,,,,Arbete i kommun / region / stat,,,,Högskola mer än 3 år,Mycket orolig.,False
+Matilda,Ulvbielke,+46708960456,,30-39 år,Kvinna,,,,,SIK,,,,,Arbete i kommun / region / stat,,,,Högskola mer än 3 år,Ganska orolig.,False
+Hanna,Lindeblad ,+46727323534,,20-29 år,Kvinna,,,,,OVIC,,,,,Annat arbete / ideell organisation,,,,Högskola mer än 3 år,Mycket orolig.,False
+Allan,Srur,+46704991748,,50-64 år,Man,,,,,HLB,,,,,Arbete i kommun / region / stat,,,,Högskola,Ganska orolig.,False
+Christian,Mathisson,+46702775830,,30-39 år,Man,,,,,SIK,,,,,Arbete i företag / näringsliv,,,,Gymnasium,Ganska orolig.,False
+Filip Rahim,Hansson,+46704356915,,30-39 år,Annat,,,,,SIK,,,,,Annat arbete / ideell organisation,,,,Högskola,Ganska orolig.,False
+Ying-sin,Tsui,+46793326598,,30-39 år,Kvinna,,,,,OVIC,,,,,Arbestslös / Annat,,,,Högskola,Ganska orolig.,False
+Jörgen,Andersson,+46705231529,,50-64 år,Man,,,,,OVIC,,,,,Arbete i företag / näringsliv,,,,Högskola mer än 3 år,Mycket orolig.,False
+Nadja,Präg,+46704362637,,30-39 år,Kvinna,,,,,SIK,,,,,Går i skola / trainee / arbetsträning,,,,Högskola mer än 3 år,Ganska orolig.,False
+Carita ,Lindeberg ,+46738372329,,65- år,Kvinna,,,,,RFH,,,,,Pensionär,,,,Högskola,Ganska orolig.,False
+Felipe,Martinez,+46793363968,,30-39 år,Man,,,,,RFH,,,,,Arbete i kommun / region / stat,,,,Högskola mer än 3 år,Mycket orolig.,False
+Lena,Ignestam,+46733244365,,50-64 år,Kvinna,,,,,OVIC,,,,,Arbete i företag / näringsliv,,,,Högskola mer än 3 år,Mycket orolig.,False
+Anette ,Larsson ,+46708302289,,50-64 år,Kvinna,,,,,OVIC,,,,,Arbete i företag / näringsliv,,,,Högskola,Ganska orolig.,False
+Linn,Andersson,+46708784208,,50-64 år,Kvinna,,,,,RFH,,,,,Arbestslös / Annat,,,,Högskola,Ganska orolig.,False
+Birthe,Larsson,+46702439276,,65- år,Kvinna,,,,,SIK,,,,,Pensionär,,,,Gymnasium,Mycket orolig.,False
+Amanda,Palmgren,+46704593436,,20-29 år,Kvinna,,,,,SIK,,,,,Arbete i företag / näringsliv,,,,Högskola,Mycket orolig.,False
+Anna,Bokström ,+46762382321,,50-64 år,Kvinna,,,,,SIK,,,,,Arbete i kommun / region / stat,,,,Gymnasium,Mycket orolig.,False
+Ulrika,Gardelin,+46703211363,,50-64 år,Kvinna,,,,,OVIC,,,,,Annat arbete / ideell organisation,,,,Högskola mer än 3 år,Ganska orolig.,False
+Marcus,Romedahl,+46723291994,,30-39 år,Man,,,,,RFH,,,,,Annat arbete / ideell organisation,,,,Gymnasium,Mycket orolig.,False
+Annie,Altengård,+46735721255,,30-39 år,Kvinna,,,,,HLB,,,,,Arbete i kommun / region / stat,,,,Högskola,Mycket orolig.,False
+Catarina,Brander,+46733203420,,50-64 år,Kvinna,,,,,OVIC,,,,,Pensionär,,,,Gymnasium,Ganska orolig.,False
+Louise,Johnsson Zea,+46733190317,,50-64 år,Kvinna,,,,,OVIC,,,,,Arbestslös / Annat,,,,Högskola mer än 3 år,Ganska orolig.,False
+Axel,Rombrant,+46735900630,,30-39 år,Man,,,,,RFH,,,,,Går i skola / trainee / arbetsträning,,,,Högskola mer än 3 år,Mycket orolig.,False
+Isabell,Olsson,+46705608843,,40-49 år,Kvinna,,,,,RFH,,,,,Arbete i företag / näringsliv,,,,Högskola,Mycket orolig.,False
+Madeleine,Persson,+46735152075,,50-64 år,Kvinna,,,,,HLB,,,,,Arbete i kommun / region / stat,,,,Gymnasium,Mycket orolig.,False
+Angelique,Jelinsky,+46762093390,,50-64 år,Kvinna,,,,,SIK,,,,,Arbete i företag / näringsliv,,,,Högskola mer än 3 år,Ganska orolig.,False
+Eddie,Lindqvist,+46765789687,,30-39 år,Annat,,,,,OVIC,,,,,Arbestslös / Annat,,,,Högskola mer än 3 år,Mycket orolig.,False
+Jody,Parker,+46735809381,,50-64 år,Man,,,,,OVIC,,,,,Arbestslös / Annat,,,,Gymnasium,Mycket orolig.,False
+Senada,Mehmedovic,+46761919405,,50-64 år,Kvinna,,,,,OVIC,,,,,Pensionär,,,,Högskola,Mycket orolig.,False
+Katarzyna,Ornowska,+46739817790,,20-29 år,Kvinna,,,,,OVIC,,,,,Arbete i kommun / region / stat,,,,Högskola mer än 3 år,Mycket orolig.,False
+Karin,Manhartsberger,+46724427809,,65- år,Kvinna,,,,,OVIC,,,,,Pensionär,,,,Högskola,Mycket orolig.,False
+Carin,Pleininger,+46725029298,,50-64 år,Kvinna,,,,,SIK,,,,,Arbete i företag / näringsliv,,,,Högskola,Ganska orolig.,False
+Christian,Boysen,+46732629751,,30-39 år,Man,,,,,SIK,,,,,Arbete i företag / näringsliv,,,,Högskola mer än 3 år,Mycket orolig.,False
+Carina,Johansson,+46733100330,,50-64 år,Kvinna,,,,,OVIC,,,,,Arbestslös / Annat,,,,Gymnasium,Mycket orolig.,False
+Sven,Svensson,+46708497795,,65- år,Man,,,,,OVIC,,,,,Pensionär,,,,Gymnasium,Mycket orolig.,False
+Anders,Giertz,+46703776097,,65- år,Man,,,,,SIK,,,,,Pensionär,,,,Högskola mer än 3 år,Ganska orolig.,False
+Julia,Fyr,+46763546623,,30-39 år,Kvinna,,,,,OVIC,,,,,Går i skola / trainee / arbetsträning,,,,Högskola mer än 3 år,Ganska orolig.,False
+Nicola,Parfitt,+46708500857,,20-29 år,Kvinna,,,,,SIK,,,,,Arbete i företag / näringsliv,,,,Högskola mer än 3 år,Mycket orolig.,False
+Julia ,Zajac ,+46731510165,,40-49 år,Annat,,,,,OVIC,,,,,Arbestslös / Annat,,,,Högskola mer än 3 år,Mycket orolig.,False
+Alva,Altgård,+46723132184,,30-39 år,Kvinna,,,,,OVIC,,,,,Arbete i företag / näringsliv,,,,Högskola mer än 3 år,Ganska orolig.,False
+Andreas,Andersson,+46739429932,,20-29 år,Man,,,,,SIK,,,,,Arbete i kommun / region / stat,,,,Gymnasium,Mycket orolig.,False
+Per,Helander,+46703496907,,50-64 år,Man,,,,,HLB,,,,,Arbete i företag / näringsliv,,,,Högskola mer än 3 år,Ganska orolig.,False
+Josefin,Aldegren,+46733330244,,30-39 år,Kvinna,,,,,SIK,,,,,Arbestslös / Annat,,,,Högskola mer än 3 år,Mycket orolig.,False
+Jose,Paredes,+46739049431,,30-39 år,Man,,,,,SIK,,,,,Annat arbete / ideell organisation,,,,Högskola mer än 3 år,Ganska orolig.,False
+Agneta,Lindberg,+46732280153,,65- år,Kvinna,,,,,OVIC,,,,,Pensionär,,,,Högskola mer än 3 år,Mycket orolig.,False
+Andreas,Bergqvist,+46761820920,,30-39 år,Man,,,,,SIK,,,,,Går i skola / trainee / arbetsträning,,,,Högskola mer än 3 år,Mycket orolig.,False
+Enes,Musa,+46708773417,,30-39 år,Man,,,,,OVIC,,,,,Annat arbete / ideell organisation,,,,Högskola mer än 3 år,Ganska orolig.,False
+Johan,Björnson,+46701484252,,40-49 år,Man,,,,,SIK,,,,,Arbete i kommun / region / stat,,,,Högskola mer än 3 år,Mycket orolig.,False
+Ronny,Forsberg,+46709918821,,50-64 år,Man,,,,,HLB,,,,,Arbete i företag / näringsliv,,,,Gymnasium,Mycket orolig.,False
+Carin,Andersson,+46707789409,,20-29 år,Kvinna,,,,,OVIC,,,,,Arbete i kommun / region / stat,,,,Högskola mer än 3 år,Mycket orolig.,False
+David,Nilsson,+46725800671,,30-39 år,Man,,,,,OVIC,,,,,Arbete i företag / näringsliv,,,,Högskola mer än 3 år,Mycket orolig.,False
+Britt-Marie,Nilsson,+46704901195,,50-64 år,Kvinna,,,,,OVIC,,,,,Arbestslös / Annat,,,,Gymnasium,Mycket orolig.,False
+Isak,Sörling,+46729811818,,16-19 år,Man,,,,,RFH,,,,,Går i skola / trainee / arbetsträning,,,,Grundskola,Ganska orolig.,False
+Charlotte,Blomberg Szemenkar,+46733981835,,30-39 år,Kvinna,,,,,OVIC,,,,,Arbete i företag / näringsliv,,,,Högskola mer än 3 år,Ganska orolig.,False
+Frans,Libertson,+46735931543,,30-39 år,Man,,,,,OVIC,,,,,Arbestslös / Annat,,,,Högskola mer än 3 år,Mycket orolig.,False
+Camilla,Zethraeus,+46709924945,,50-64 år,Kvinna,,,,,OVIC,,,,,Arbete i kommun / region / stat,,,,Högskola mer än 3 år,Mycket orolig.,False
+Amanda,Filipsson,+46701129940,,20-29 år,Annat,,,,,HLB,,,,,Annat arbete / ideell organisation,,,,Högskola,Mycket orolig.,False
+Nahid,Pordel,+46790751571,,30-39 år,Kvinna,,,,,SIK,,,,,Går i skola / trainee / arbetsträning,,,,Högskola mer än 3 år,Ganska orolig.,False
+Justina,Bacinska,+46725865646,,30-39 år,Kvinna,,,,,OVIC,,,,,Arbete i kommun / region / stat,,,,Högskola mer än 3 år,Ganska orolig.,False
+Hanna,Andrén,+46730719196,,20-29 år,Kvinna,,,,,OVIC,,,,,Går i skola / trainee / arbetsträning,,,,Högskola mer än 3 år,Mycket orolig.,False
+Azamat,Salakhov,+46793477764,,20-29 år,Man,,,,,SIK,,,,,Annat arbete / ideell organisation,,,,Högskola,Ganska orolig.,False
+Elin,Källberg,+46735795507,,30-39 år,Kvinna,,,,,SIK,,,,,Arbete i kommun / region / stat,,,,Högskola mer än 3 år,Mycket orolig.,False
+Christer ,Wejnerup,+46704106144,,50-64 år,Man,,,,,OVIC,,,,,Arbete i företag / näringsliv,,,,Gymnasium,Mycket orolig.,False
+Jenny ,Widov ,+46707675739,,50-64 år,Kvinna,,,,,SIK,,,,,Arbestslös / Annat,,,,Högskola,Mycket orolig.,False
+Lisa,Tover,+46739160718,,30-39 år,Kvinna,,,,,OVIC,,,,,Arbete i kommun / region / stat,,,,Högskola mer än 3 år,Ganska orolig.,False
+Magdalena,Granath,+46708491908,,50-64 år,Kvinna,,,,,SIK,,,,,Arbete i kommun / region / stat,,,,Högskola mer än 3 år,Ganska orolig.,False
+Christin,Persson,+46732008428,,40-49 år,Kvinna,,,,,SIK,,,,,Annat arbete / ideell organisation,,,,Högskola mer än 3 år,Ganska orolig.,False
+Ulf,Atles,+46707835917,,50-64 år,Man,,,,,OVIC,,,,,Arbete i företag / näringsliv,,,,Högskola mer än 3 år,Ganska orolig.,False
+Linnea ,Pivén ,+46709474249,,30-39 år,Kvinna,,,,,SIK,,,,,Går i skola / trainee / arbetsträning,,,,Högskola mer än 3 år,Mycket orolig.,False
+Elena,Bazhenova,+46700286445,,30-39 år,Kvinna,,,,,SIK,,,,,Arbete i kommun / region / stat,,,,Högskola mer än 3 år,Ganska orolig.,False
+Magnus,Oscarsson,+46709515133,,40-49 år,Man,,,,,OVIC,,,,,Går i skola / trainee / arbetsträning,,,,Högskola mer än 3 år,Mycket orolig.,False
+Nathalie,Bergame,+46739346638,,30-39 år,Kvinna,,,,,OVIC,,,,,Arbestslös / Annat,,,,Högskola mer än 3 år,Mycket orolig.,False
+Gijsbert,van der Poel,+46702770366,,30-39 år,Man,,,,,OVIC,,,,,Arbete i företag / näringsliv,,,,Högskola mer än 3 år,Mycket orolig.,False
+Per,Hallberg,+46720440356,,50-64 år,Man,,,,,SIK,,,,,Arbete i kommun / region / stat,,,,Högskola mer än 3 år,Ganska orolig.,False
+Lena,Ramsten,+46730364165,,65- år,Kvinna,,,,,OVIC,,,,,Pensionär,,,,Högskola,Mycket orolig.,False
+Ika ,Djuric ,+46728896609,,50-64 år,Kvinna,,,,,OVIC,,,,,Arbete i företag / näringsliv,,,,Högskola mer än 3 år,Ganska orolig.,False
+Jakob,Skarphagen,+46768839831,,30-39 år,Man,,,,,OVIC,,,,,Arbete i företag / näringsliv,,,,Högskola mer än 3 år,Ganska orolig.,False
+Louan,Wang,+46736351339,,40-49 år,Kvinna,,,,,HLB,,,,,Arbete i företag / näringsliv,,,,Högskola mer än 3 år,Mycket orolig.,False
+Samira,Hotak,+46790494653,,16-19 år,Kvinna,,,,,HLB,,,,,Går i skola / trainee / arbetsträning,,,,Grundskola,Mycket orolig.,False
+Nina,Steiner,+46708211555,,50-64 år,Kvinna,,,,,OVIC,,,,,Arbete i kommun / region / stat,,,,Högskola mer än 3 år,Ganska orolig.,False
+Alva ,Ingvaldson,+46708325422,,40-49 år,Kvinna,,,,,OVIC,,,,,Går i skola / trainee / arbetsträning,,,,Högskola,Ganska orolig.,False
+Rasmus,Nilsson,+46766330873,,20-29 år,Man,,,,,SIK,,,,,Annat arbete / ideell organisation,,,,Gymnasium,Mycket orolig.,False
+Anna,Muranius,+46708650472,,20-29 år,Kvinna,,,,,SIK,,,,,Arbestslös / Annat,,,,Högskola,Mycket orolig.,False
+Alfred,Westh,+46708906962,,30-39 år,Man,,,,,RFH,,,,,Annat arbete / ideell organisation,,,,Högskola,Mycket orolig.,False
+Tilly,Nygren Laestander,+46703313374,,20-29 år,Kvinna,,,,,SIK,,,,,Arbete i kommun / region / stat,,,,Högskola mer än 3 år,Mycket orolig.,False
+Spilios,Iliopoulos,+46738465231,,30-39 år,Man,,,,,OVIC,,,,,Arbestslös / Annat,,,,Högskola mer än 3 år,Mycket orolig.,False
+Mojra,Blomberg,+46707818308,,30-39 år,Kvinna,,,,,SIK,,,,,Arbete i kommun / region / stat,,,,Högskola mer än 3 år,Mycket orolig.,False
+Alissa,Valsangiacomo,+46704147164,,30-39 år,Kvinna,,,,,HLB,,,,,Arbestslös / Annat,,,,Gymnasium,Ganska orolig.,False
+Filip,Jonsson,+46723232025,,20-29 år,Man,,,,,OVIC,,,,,Går i skola / trainee / arbetsträning,,,,Högskola mer än 3 år,Ganska orolig.,False
+Ellen,Boije af Gennäs Erre,+46706106102,,20-29 år,Kvinna,,,,,OVIC,,,,,Arbete i kommun / region / stat,,,,Högskola mer än 3 år,Mycket orolig.,False
+Hanna,Strömland,+46722291775,,30-39 år,Kvinna,,,,,OVIC,,,,,Annat arbete / ideell organisation,,,,Högskola mer än 3 år,Mycket orolig.,False
+Alexandra,Zanc,+46793480930,,40-49 år,Kvinna,,,,,RFH,,,,,Arbestslös / Annat,,,,Högskola mer än 3 år,Ganska orolig.,False
+Mats,Jonsson,+46768963843,,30-39 år,Man,,,,,OVIC,,,,,Arbete i företag / näringsliv,,,,Högskola mer än 3 år,Mycket orolig.,False
+Zhenni ,Liang,+46700195536,,30-39 år,Kvinna,,,,,OVIC,,,,,Arbete i företag / näringsliv,,,,Högskola mer än 3 år,Mycket orolig.,False
+Max,Gnipping,+46739761950,,30-39 år,Man,,,,,OVIC,,,,,Arbete i företag / näringsliv,,,,Högskola,Ganska orolig.,False
+Lisa ,Luckman ,+46704265068,,40-49 år,Kvinna,,,,,SIK,,,,,Arbete i kommun / region / stat,,,,Högskola mer än 3 år,Ganska orolig.,False
+Carolina,Olsson,+46763155056,,40-49 år,Kvinna,,,,,OVIC,,,,,Annat arbete / ideell organisation,,,,Högskola mer än 3 år,Ganska orolig.,False
+Aleksander ,khorshid,+46735105392,,20-29 år,Man,,,,,RFH,,,,,Annat arbete / ideell organisation,,,,Högskola mer än 3 år,Inte särskilt orolig.,False
+Monica,Olifsson,+46707414649,,65- år,Kvinna,,,,,OVIC,,,,,Pensionär,,,,Gymnasium,Ganska orolig.,False
+Christopher,Gwiazda,+46761619797,,50-64 år,Man,,,,,OVIC,,,,,Arbete i företag / näringsliv,,,,Högskola mer än 3 år,Ganska orolig.,False
+Linn,Forsander,+46739434762,,20-29 år,Kvinna,,,,,SIK,,,,,Arbete i företag / näringsliv,,,,Högskola mer än 3 år,Ganska orolig.,False
+Emma,Fritzdotter,+46733905343,,20-29 år,Kvinna,,,,,SIK,,,,,Annat arbete / ideell organisation,,,,Högskola mer än 3 år,Mycket orolig.,False
+Sara,Nilsson ,+46727380353,,30-39 år,Kvinna,,,,,HLB,,,,,Arbete i företag / näringsliv,,,,Högskola,Mycket orolig.,False
+Anna-Karin,Hall,+46704861080,,50-64 år,Kvinna,,,,,SIK,,,,,Arbete i företag / näringsliv,,,,Högskola,Mycket orolig.,False
+Jacob,Lundstedt,+46736733446,,20-29 år,Man,,,,,RFH,,,,,Går i skola / trainee / arbetsträning,,,,Högskola,Mycket orolig.,False
+Elvin,Landaeus Csizmadia,+46737473444,,20-29 år,Man,,,,,RFH,,,,,Annat arbete / ideell organisation,,,,Gymnasium,Ganska orolig.,False
+Carina,Friberg,+46707216107,,50-64 år,Kvinna,,,,,SIK,,,,,Annat arbete / ideell organisation,,,,Gymnasium,Ganska orolig.,False
+Anna,Vesterberg,+46761881314,,50-64 år,Kvinna,,,,,OVIC,,,,,Arbete i företag / näringsliv,,,,Högskola,Ganska orolig.,False
+Hanne,Blaesild,+46768619587,,50-64 år,Kvinna,,,,,OVIC,,,,,Arbete i kommun / region / stat,,,,Gymnasium,Mycket orolig.,False
+Kerstin,Wolf,+46766001604,,30-39 år,Kvinna,,,,,OVIC,,,,,Arbete i företag / näringsliv,,,,Högskola mer än 3 år,Ganska orolig.,False
+Emma,Sjölander,+46727053837,,20-29 år,Kvinna,,,,,OVIC,,,,,Går i skola / trainee / arbetsträning,,,,Högskola mer än 3 år,Mycket orolig.,False
+Patrik,Andersson,+46739185953,,30-39 år,Man,,,,,SIK,,,,,Arbete i kommun / region / stat,,,,Högskola mer än 3 år,Mycket orolig.,False
+Robin ,Zagrosan ,+46723767672,,50-64 år,Man,,,,,OVIC,,,,,Arbete i kommun / region / stat,,,,Högskola mer än 3 år,Mycket orolig.,False
+Annika,Ekman,+46705884931,,65- år,Kvinna,,,,,SIK,,,,,Arbestslös / Annat,,,,Högskola mer än 3 år,Mycket orolig.,False
+Amanda,Andersson,+46702446950,,30-39 år,Kvinna,,,,,OVIC,,,,,Arbete i företag / näringsliv,,,,Högskola,Mycket orolig.,False
+Suzan,Hölttä,+46768632383,,50-64 år,Kvinna,,,,,OVIC,,,,,Arbete i kommun / region / stat,,,,Högskola mer än 3 år,Ganska orolig.,False
+Hjalmar,Åhrén,+46761082284,,20-29 år,Man,,,,,SIK,,,,,Arbete i kommun / region / stat,,,,Högskola mer än 3 år,Mycket orolig.,False
+Ingalill,Schmidt,+46705492751,,65- år,Kvinna,,,,,HLB,,,,,Annat arbete / ideell organisation,,,,Högskola,Ganska orolig.,False
+Gerda,Nilsson,+46766288231,,40-49 år,Kvinna,,,,,SIK,,,,,Arbete i kommun / region / stat,,,,Högskola mer än 3 år,Mycket orolig.,False
+Sofia,Elg,+46730538556,,50-64 år,Kvinna,,,,,HLB,,,,,Arbete i företag / näringsliv,,,,Högskola mer än 3 år,Mycket orolig.,False
+Vanessa,Karlsson,+46720291351,,30-39 år,Kvinna,,,,,SIK,,,,,Arbete i kommun / region / stat,,,,Högskola,Ganska orolig.,False
+Angel,Nikolov,+46736897374,,30-39 år,Man,,,,,OVIC,,,,,Arbestslös / Annat,,,,Högskola mer än 3 år,Mycket orolig.,False
+Albert,de Bobes i Coll,+46700233758,,20-29 år,Man,,,,,SIK,,,,,Arbete i företag / näringsliv,,,,Högskola mer än 3 år,Mycket orolig.,False
+Linn,Sandström,+46707994131,,20-29 år,Annat,,,,,SIK,,,,,Arbestslös / Annat,,,,Högskola,Mycket orolig.,False
+Ludvig,Stoltz,+46700647897,,20-29 år,Man,,,,,RFH,,,,,Arbestslös / Annat,,,,Högskola mer än 3 år,Ganska orolig.,False
+Maja,Håkansson,+46732670782,,20-29 år,Kvinna,,,,,SIK,,,,,Arbete i företag / näringsliv,,,,Högskola mer än 3 år,Mycket orolig.,False
+Elisabet,Corengia,+46736775433,,50-64 år,Kvinna,,,,,HLB,,,,,Arbete i kommun / region / stat,,,,Högskola mer än 3 år,Ganska orolig.,False
+Kristina,Bruun-Nyzell,+46760580107,,50-64 år,Kvinna,,,,,HLB,,,,,Arbete i företag / näringsliv,,,,Högskola mer än 3 år,Ganska orolig.,False
+Emma,Axbacke,+46706224922,,50-64 år,Kvinna,,,,,SIK,,,,,Arbete i kommun / region / stat,,,,Högskola mer än 3 år,Ganska orolig.,False
+Elin,Karlsson,+46708976437,,40-49 år,Kvinna,,,,,OVIC,,,,,Arbete i kommun / region / stat,,,,Högskola mer än 3 år,Ganska orolig.,False
+Johan,Rosqvist,+46702977616,,30-39 år,Man,,,,,SIK,,,,,Arbete i kommun / region / stat,,,,Högskola,Mycket orolig.,False
+Bonnie,Dahlström,+46735747463,,30-39 år,Annat,,,,,SIK,,,,,Annat arbete / ideell organisation,,,,Högskola mer än 3 år,Mycket orolig.,False
+Bodil ,Olsson,+46724451973,,50-64 år,Kvinna,,,,,OVIC,,,,,Arbete i kommun / region / stat,,,,Högskola mer än 3 år,Mycket orolig.,False
+Berit,Wigerfelt,+46725654117,,65- år,Kvinna,,,,,OVIC,,,,,Pensionär,,,,Högskola mer än 3 år,Mycket orolig.,False
+Sara,Hansson,+46735305830,,30-39 år,Kvinna,,,,,OVIC,,,,,Arbete i företag / näringsliv,,,,Högskola,Mycket orolig.,False
+Mia,Schrader,+46763445743,,20-29 år,Kvinna,,,,,SIK,,,,,Arbestslös / Annat,,,,Högskola mer än 3 år,Mycket orolig.,False
+Himanshu,Rohilla,+46765422228,,40-49 år,Man,,,,,RFH,,,,,Arbete i företag / näringsliv,,,,Högskola mer än 3 år,Mycket orolig.,False
+Silvia,Marchesi,+46763195231,,30-39 år,Kvinna,,,,,SIK,,,,,Arbete i kommun / region / stat,,,,Högskola mer än 3 år,Mycket orolig.,False
+Inge,Karlberg,+46706831688,,50-64 år,Man,,,,,OVIC,,,,,Arbete i företag / näringsliv,,,,Högskola,Mycket orolig.,False
+Tillie,Johansson,+46705815932,,30-39 år,Kvinna,,,,,OVIC,,,,,Arbete i kommun / region / stat,,,,Högskola mer än 3 år,Mycket orolig.,False
+Ana,Mendoza,+46737144350,,40-49 år,Kvinna,,,,,SIK,,,,,Arbestslös / Annat,,,,Högskola mer än 3 år,Ganska orolig.,False
+Marcus,Ralman,+46722255990,,20-29 år,Man,,,,,OVIC,,,,,Arbete i företag / näringsliv,,,,Högskola,Mycket orolig.,False
+Annika,Drube,+46793396788,,20-29 år,Kvinna,,,,,OVIC,,,,,Arbete i företag / näringsliv,,,,Högskola mer än 3 år,Mycket orolig.,False
+Maja,Nilsson Vilör,+46708447779,,30-39 år,Kvinna,,,,,OVIC,,,,,Arbete i kommun / region / stat,,,,Högskola mer än 3 år,Mycket orolig.,False
+Vilmer,Andersen,+46705852224,,65- år,Man,,,,,OVIC,,,,,Pensionär,,,,Högskola mer än 3 år,Mycket orolig.,False
+Sara,Appelberg,+46702423300,,40-49 år,Kvinna,,,,,HLB,,,,,Arbete i företag / näringsliv,,,,Högskola mer än 3 år,Mycket orolig.,False
+Jenny ,Sjöholm ,+46735841332,,50-64 år,Kvinna,,,,,HLB,,,,,Annat arbete / ideell organisation,,,,Högskola,Mycket orolig.,False
+Elisabeth,Jaenson,+46703635486,,65- år,Kvinna,,,,,SIK,,,,,Pensionär,,,,Högskola mer än 3 år,Mycket orolig.,False
+Jane,Olsson,+46703456771,,40-49 år,Kvinna,,,,,OVIC,,,,,Arbete i företag / näringsliv,,,,Gymnasium,Ganska orolig.,False
+Elin,Hansson,+46722344905,,20-29 år,Kvinna,,,,,SIK,,,,,Går i skola / trainee / arbetsträning,,,,Högskola,Ganska orolig.,False
+Michael,Nord,+46709248346,,50-64 år,Man,,,,,HLB,,,,,Arbete i företag / näringsliv,,,,Högskola,Mycket orolig.,False
+Malene ,Vetlejord ,+46707505905,,50-64 år,Kvinna,,,,,HLB,,,,,Arbete i företag / näringsliv,,,,Högskola mer än 3 år,Mycket orolig.,False
+Blazenka,B*******,+46737069195,,30-39 år,Kvinna,,,,,RFH,,,,,Arbete i kommun / region / stat,,,,Gymnasium,Ganska orolig.,False
+Ingemar,Andersson,+46733444423,,50-64 år,Man,,,,,OVIC,,,,,Arbestslös / Annat,,,,Högskola,Mycket orolig.,False
+Andreas,Vilhelmsson,+46709648944,,40-49 år,Man,,,,,HLB,,,,,Arbete i kommun / region / stat,,,,Högskola mer än 3 år,Mycket orolig.,False
+Catharina,Dos Santos,+46706536741,,50-64 år,Kvinna,,,,,OVIC,,,,,Arbete i företag / näringsliv,,,,Högskola mer än 3 år,Ganska orolig.,False
+Elin ,Wennström ,+46727343619,,20-29 år,Kvinna,,,,,SIK,,,,,Går i skola / trainee / arbetsträning,,,,Högskola,Mycket orolig.,False
+Frida,Henrell,+46738092076,,30-39 år,Kvinna,,,,,RFH,,,,,Arbete i företag / näringsliv,,,,Högskola,Mycket orolig.,False
+Nathalie,Kallus,+46708727645,,30-39 år,Kvinna,,,,,SIK,,,,,Arbete i kommun / region / stat,,,,Högskola mer än 3 år,Mycket orolig.,False
+Stina ,Knutson ,+46708170840,,40-49 år,Kvinna,,,,,OVIC,,,,,Arbete i kommun / region / stat,,,,Högskola mer än 3 år,Ganska orolig.,False
+Thomas,Isaksson ,+46721659272,,50-64 år,Man,,,,,HLB,,,,,Arbete i företag / näringsliv,,,,Högskola mer än 3 år,Mycket orolig.,False
+Olivers,Abens,+46739797519,,20-29 år,Man,,,,,SIK,,,,,Går i skola / trainee / arbetsträning,,,,Gymnasium,Mycket orolig.,False
+Charlotta,Lindgren,+46725436600,,50-64 år,Kvinna,,,,,SIK,,,,,Arbete i kommun / region / stat,,,,Högskola,Ganska orolig.,False
+Elias,Elmqvist Wulcan,+46706569056,,30-39 år,Man,,,,,OVIC,,,,,Arbete i företag / näringsliv,,,,Högskola mer än 3 år,Mycket orolig.,False
+Lewis,Lebolt,+46793413440,,65- år,Man,,,,,SIK,,,,,Pensionär,,,,Högskola mer än 3 år,Mycket orolig.,False
+Mathias,Holmberg,+46703902806,,50-64 år,Man,,,,,HLB,,,,,Arbete i kommun / region / stat,,,,Högskola mer än 3 år,Ganska orolig.,False
+Annie,Halje,+46730545009,,30-39 år,Kvinna,,,,,SIK,,,,,Arbestslös / Annat,,,,Högskola mer än 3 år,Mycket orolig.,False
+Julie,Maas,+46723776871,,30-39 år,Kvinna,,,,,OVIC,,,,,Arbestslös / Annat,,,,Högskola mer än 3 år,Mycket orolig.,False
+Tim,Isaksson,+46702328993,,30-39 år,Man,,,,,OVIC,,,,,Arbete i företag / näringsliv,,,,Högskola mer än 3 år,Mycket orolig.,False
+Jenny,Eriksson,+46706350353,,40-49 år,Kvinna,,,,,OVIC,,,,,Annat arbete / ideell organisation,,,,Högskola,Mycket orolig.,False
+Véronique,Ducrocq-Myles,+46704691081,,50-64 år,Kvinna,,,,,HLB,,,,,Arbestslös / Annat,,,,Högskola mer än 3 år,Ganska orolig.,False
+Pia,Bak-Frederiksen,+46722140526,,65- år,Kvinna,,,,,OVIC,,,,,Pensionär,,,,Högskola,Mycket orolig.,False
+Cecilia,Truedsson,+46702068194,,40-49 år,Kvinna,,,,,OVIC,,,,,Arbete i kommun / region / stat,,,,Högskola mer än 3 år,Mycket orolig.,False
+Astrid,Stenholm,+46735952565,,30-39 år,Kvinna,,,,,SIK,,,,,Arbete i företag / näringsliv,,,,Högskola mer än 3 år,Mycket orolig.,False
+Victoria ,Hult,+46705477278,,20-29 år,Kvinna,,,,,SIK,,,,,Arbete i kommun / region / stat,,,,Högskola mer än 3 år,Ganska orolig.,False
+Josefine,Berglund,+46763932126,,30-39 år,Kvinna,,,,,SIK,,,,,Arbete i företag / näringsliv,,,,Högskola mer än 3 år,Ganska orolig.,False
+Helene,Lidquist,+46704921878,,65- år,Kvinna,,,,,OVIC,,,,,Pensionär,,,,Högskola mer än 3 år,Mycket orolig.,False
+Lotta,Green,+46721613617,,50-64 år,Kvinna,,,,,OVIC,,,,,Pensionär,,,,Högskola mer än 3 år,Mycket orolig.,False
+Benjamin,Fisher,+46739553536,,20-29 år,Annat,,,,,RFH,,,,,Går i skola / trainee / arbetsträning,,,,Gymnasium,Mycket orolig.,False
+Erik,Ottosson,+46709234186,,30-39 år,Man,,,,,OVIC,,,,,Arbete i företag / näringsliv,,,,Högskola mer än 3 år,Mycket orolig.,False
+Josefin,Axén Hansson ,+46703920593,,30-39 år,Kvinna,,,,,OVIC,,,,,Arbestslös / Annat,,,,Högskola mer än 3 år,Mycket orolig.,False
+Patrik,Gustavsson,+46704199762,,50-64 år,Man,,,,,OVIC,,,,,Arbestslös / Annat,,,,Högskola,Mycket orolig.,False
+Johan,Olsson,+46701402615,,30-39 år,Man,,,,,OVIC,,,,,Arbete i företag / näringsliv,,,,Högskola mer än 3 år,Mycket orolig.,False
+Emily,Hansson,+46736149592,,30-39 år,Kvinna,,,,,OVIC,,,,,Arbete i företag / näringsliv,,,,Högskola mer än 3 år,Ganska orolig.,False
+Eva,Antesdotter,+46703752273,,65- år,Kvinna,,,,,OVIC,,,,,Pensionär,,,,Högskola,Mycket orolig.,False
+J******* M****,C*******,+46702625226,,30-39 år,Kvinna,,,,,HLB,,,,,Arbete i företag / näringsliv,,,,Högskola mer än 3 år,Ganska orolig.,False
+Marie,Söderberg Schalin,+46705986399,,50-64 år,Kvinna,,,,,SIK,,,,,Arbestslös / Annat,,,,Högskola,Mycket orolig.,False
+Jakob,Brycki,+46733213993,,30-39 år,Man,,,,,SIK,,,,,Arbete i företag / näringsliv,,,,Gymnasium,Ganska orolig.,False
+Malena,Sjöstedt,+46731519930,,50-64 år,Vill ej uppge,,,,,HLB,,,,,Arbete i kommun / region / stat,,,,Högskola mer än 3 år,Mycket orolig.,False
+Alexandra ,Pettersson ,+46735465190,,40-49 år,Kvinna,,,,,HLB,,,,,Arbete i kommun / region / stat,,,,Högskola mer än 3 år,Ganska orolig.,False
+Säde,Virkamäki,+46707606319,,30-39 år,Kvinna,,,,,OVIC,,,,,Arbete i kommun / region / stat,,,,Högskola mer än 3 år,Mycket orolig.,False
+Ulrika,Johnsson,+46768820876,,50-64 år,Kvinna,,,,,RFH,,,,,Arbete i kommun / region / stat,,,,Högskola mer än 3 år,Ganska orolig.,False
+Linnea,Swensson,+46703031636,,20-29 år,Kvinna,,,,,SIK,,,,,Går i skola / trainee / arbetsträning,,,,Högskola,Ganska orolig.,False
+Karin,Hofmann,+46709463858,,30-39 år,Kvinna,,,,,HLB,,,,,Går i skola / trainee / arbetsträning,,,,Högskola mer än 3 år,Mycket orolig.,False
+Sebastian,Rosenblad,+46790765844,,30-39 år,Man,,,,,RFH,,,,,Arbete i företag / näringsliv,,,,Högskola,Ganska orolig.,False
+Cecilia,Karlsson,+46724454842,,30-39 år,Kvinna,,,,,OVIC,,,,,Arbete i kommun / region / stat,,,,Högskola mer än 3 år,Mycket orolig.,False

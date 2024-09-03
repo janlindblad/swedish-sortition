@@ -1,0 +1,6 @@
+first_name,last_name,personnummer,age,age_group,gender,address,phone_numbers,latitude,longitude,geography,street,postcode,city,region,occupation,housing_type,area_median_income,income_indicator,education,climate_worry,is_confirmed
+Gunilla,Ryd,+46702736837,,65- år,Kvinna,,,,,OVIC,,,,,Pensionär,,,,Högskola mer än 3 år,Mycket orolig.,True
+Sofia,Hedén,+46703564168,,40-49 år,Kvinna,,,,,HLB,,,,,Arbete i kommun / region / stat,,,,Högskola mer än 3 år,Mycket orolig.,True
+Helena,Grahn,+46704538381,,40-49 år,Kvinna,,,,,OVIC,,,,,Arbete i kommun / region / stat,,,,Högskola mer än 3 år,Ganska orolig.,True
+Jesper,Olsso,+46708950149,,20-29 år,Man,,,,,OVIC,,,,,Arbete i kommun / region / stat,,,,Högskola mer än 3 år,Ganska orolig.,True
+Marcus,Ohlström,+46701475952,,40-49 år,Man,,,,,OVIC,,,,,Arbete i kommun / region / stat,,,,Högskola mer än 3 år,Mycket orolig.,True

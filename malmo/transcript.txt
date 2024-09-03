@@ -1,0 +1,41 @@
+JLINDBLA-M-419G:malmo jlindbla$ ./run.py -n malmö24 -a "Sofia:Hedén:+46703564168" -a "Helena:Grahn:+46704538381" -a "Gunilla:Ryd:+46702736837" -a "Jesper:Olsso:+46708950149" -a "Marcus:Ohlström:+46701475952" -s 42
+Added 5 participants to cat-a-pool.csv
+Created new pool cat-a-pool.csv with 5 participants
+Added 208 participants to cat-b-pool.csv
+Created new pool cat-b-pool.csv with 208 participants
+Created criteria file for 42 participants
+JLINDBLA-M-419G:malmo jlindbla$ ./run.py -n malmö24 -a "Sofia:Hedén:+46703564168" -a "Helena:Grahn:+46704538381" -a "Gunilla:Ryd:+46702736837" -a "Jesper:Olsso:+46708950149" -a "Marcus:Ohlström:+46701475952" -s 42 -i 1000000
+Added 5 participants to cat-a-pool.csv
+Created new pool cat-a-pool.csv with 5 participants
+Added 208 participants to cat-b-pool.csv
+Created new pool cat-b-pool.csv with 208 participants
+Created criteria file for 42 participants
+Running 1000000 random participant draws
+Reading pool files for Cat A and B
+A: Already confirmed participants: 5
+No Cat B candidates already confirmed
+AB: Already confirmed participants: 5
+Reading criteria file criteria-malmö24-42.json
+
+Starting selection process
+5 participants already confirmed
+42 participants to be selected
+Sample 1 (distance: 17.190482749474263)
+Sample 2 (distance: 14.950680521459628)
+Sample 8 (distance: 13.304084885472975)
+Sample 42 (distance: 13.1926025853937)
+Sample 94 (distance: 12.682443884579314)
+Sample 654 (distance: 11.85836489331984)
+Sample 1484 (distance: 11.609227148918851)
+Sample 1706 (distance: 11.560513797324312)
+Sample 2984 (distance: 10.817852005103472)
+Sample 5279 (distance: 10.452028212175582)
+Sample 45678 (distance: 10.435816136392289)
+Sample 48310 (distance: 10.14303117592181)
+Sample 134050 (distance: 10.012513495996348)
+Sample 156720 (distance: 9.913449664270471)
+Sample 257251 (distance: 9.852064623766971)
+Sample 435898 (distance: 9.642753701008075)
+Sample 728220 (distance: 9.599893474607628)
+Sample 755714 (distance: 9.473398318650327)
+JLINDBLA-M-419G:malmo jlindbla$ 
