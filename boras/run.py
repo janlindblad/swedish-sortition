@@ -7,6 +7,7 @@
 import json, sys, math, logging
 from swedish_sortition import Sortition
 import pandas as pd
+from pathlib import Path
 from pool import prepare_pool
 from answers import get_representative_answers
 logger = logging.getLogger("swedish_sortition")
@@ -31,13 +32,7 @@ def prepare_criteria(assembly_name, assembly_size):
     value_sum = sum(vals.values())
     new_vals = {}
     for key in vals.keys():
-      new_vals[key] = int(math.floor(vals[key] / value_sum * assembly_size))
-    #print(f'Floor {cat} values {sum(new_vals.values())}: {new_vals}')
-    while int(sum(new_vals.values())) != assembly_size:
-      rel_diff = {key:(vals[key]/value_sum*assembly_size - new_vals[key]) for key in vals.keys()}
-      best_fit_key = max(rel_diff, key=rel_diff.get)
-      #print(f'Adjusted {best_fit_key}')
-      new_vals[best_fit_key] += 1
+      new_vals[key] = assembly_size * vals[key] / value_sum
     criteria[cat]["values"] = new_vals
     #print(f'Final {cat} values {sum(new_vals.values())}: {new_vals}')
   with open(criteria_filename, "w", newline='') as critfile:
@@ -150,8 +145,9 @@ def main():
 
   # Prepare criteria file
   if options.assembly_size:
-    logger.info(f'Creating new criteria file')
-    prepare_criteria(options.assembly_name, options.assembly_size)
+    if not Path(get_citeria_filename(options.assembly_name, options.assembly_size)).is_file():
+      logger.info(f'Creating new criteria file')
+      prepare_criteria(options.assembly_name, options.assembly_size)
 
   # Run the main sortition
   if options.draw_iterations:
