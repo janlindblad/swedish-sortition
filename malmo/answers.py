@@ -3,7 +3,7 @@
 # Adapted by Jan Lindblad <jan.lindblad@protonmail.com>
 
 def get_representative_answers(assembly_name):
-  if assembly_name in ['malmö24']:
+  if assembly_name in ['malmö24','malmö24-2']:
     return {
       "gender": {
         "values": { "Man": 48.36, "Kvinna": 49.14, "Annat": 2.50 },

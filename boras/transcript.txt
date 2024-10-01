@@ -1,0 +1,26 @@
+JLINDBLA-M-419G:boras jlindbla$ ./run.py -n boras24.0 -p candidates-boras24.0.xlsx 
+INFO:swedish_sortition:Creating new pool file
+INFO:swedish_sortition:Candidate Anna  Berntsson  has declined to particpate
+INFO:swedish_sortition:Candidate Pia  Bahnamon has declined to particpate
+INFO:swedish_sortition:Candidate Jenny Nummelin has declined to particpate
+WARNING:swedish_sortition:WARNING: Entry with duplicate email abuin.adrian@gmail.com, phone number '+46793559241
+WARNING:swedish_sortition:WARNING: Entry with duplicate email susannesgbg@hotmail.com, phone number '+46706172871
+INFO:swedish_sortition:Candidate Marcus Lännholm has declined to particpate
+INFO:swedish_sortition:Candidate Ilse Postma has declined to particpate
+WARNING:swedish_sortition:WARNING: Entry with duplicate email bergenzaun@gmail.com, phone number '+46721731178, first+last name ('Måns', 'Bergenzaun')
+WARNING:swedish_sortition:WARNING: Entry with duplicate email borangencoglu94@gmail.com, phone number '+46727404499, first+last name ('Boran', 'Gencoglu')
+INFO:swedish_sortition:Placed 109 participants into pool-boras24.0.csv
+INFO:swedish_sortition:Using candidate pool pool-boras24.0.csv with 109 candidates
+
+# Remove declining candidates and duplicates
+
+JLINDBLA-M-419G:boras jlindbla$ ./run.py -n boras24.0 -p candidates-boras24.0.xlsx 
+INFO:swedish_sortition:Creating new pool file
+INFO:swedish_sortition:Placed 105 participants into pool-boras24.0.csv
+INFO:swedish_sortition:Using candidate pool pool-boras24.0.csv with 105 candidates
+JLINDBLA-M-419G:boras jlindbla$ 
+
+# Mark confirmed the 5 people from Borås Kommun
+
+JLINDBLA-M-419G:boras jlindbla$ ./run.py -n boras24.1
+INFO:swedish_sortition:Using candidate pool pool-boras24.1.csv with 105 candidates
