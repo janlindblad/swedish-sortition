@@ -6,7 +6,7 @@ import sys, logging
 logger = logging.getLogger("swedish_sortition")
 
 def get_representative_answers(assembly_name):
-  if assembly_name in ['boras24.0','boras24.1']:
+  if assembly_name in ['boras24.0','boras24.1', 'boras24.2']:
     return {
       "gender": {
         "values": { "Man": 48.92, "Kvinna": 48.58, "Annat": 2.50 },
@@ -60,7 +60,7 @@ def get_representative_answers(assembly_name):
     sys.exit(9)
 
 def map_answer(assembly_name, mapping, map_row, val):
-  if assembly_name in ['boras24.0', 'boras24.1']:
+  if assembly_name in ['boras24.0', 'boras24.1','boras24.2']:
     if mapping == 0: # Can attend? # Approves conditions?
       if not val or not val.startswith("Ja"):
         logger.info(f"Candidate {map_row['first_name']} {map_row['last_name']} has declined to particpate")

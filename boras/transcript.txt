@@ -24,3 +24,71 @@ JLINDBLA-M-419G:boras jlindbla$
 
 JLINDBLA-M-419G:boras jlindbla$ ./run.py -n boras24.1
 INFO:swedish_sortition:Using candidate pool pool-boras24.1.csv with 105 candidates
+
+
+
+JLINDBLA-M-419G:boras jlindbla$ ./run.py -n boras24.1 -s 42 -i 1000000 -r result
+INFO:swedish_sortition:Using candidate pool pool-boras24.1.csv with 105 candidates
+INFO:swedish_sortition:Starting sortition
+INFO:swedish_sortition:Running 1000000 random participant draws
+INFO:swedish_sortition:Reading pool file
+INFO:swedish_sortition:Some candidates already confirmed
+INFO:swedish_sortition:Already confirmed participants: 5
+INFO:swedish_sortition:Reading criteria file criteria-boras24.1-42.json
+INFO:swedish_sortition:5 participants already confirmed
+INFO:swedish_sortition:42 participants to be selected
+Sample 1 (distance: 11.346995527258969)
+Sample 3 (distance: 9.689709796615276)
+Sample 8 (distance: 9.23279524129184)
+Sample 9 (distance: 7.957499623340736)
+Sample 50 (distance: 7.465626232371723)
+Sample 54 (distance: 7.326097577291307)
+Sample 135 (distance: 6.195411040197072)
+Sample 9354 (distance: 6.168429172048283)
+Sample 11280 (distance: 6.102375207063776)
+Sample 15804 (distance: 5.9624286774559625)
+Sample 17323 (distance: 5.626514210421034)
+Sample 89460 (distance: 5.499494269406877)
+Sample 95945 (distance: 5.213795463491878)
+Sample 112949 (distance: 5.153767256779538)
+Sample 241413 (distance: 5.142498198282721)
+Sample 358507 (distance: 5.108787451187403)
+Sample 658929 (distance: 5.098846896097055)
+Sample 804783 (distance: 4.403106676663625)
+INFO:swedish_sortition:Sortition completed
+INFO:swedish_sortition:Sortition result in files result*.xlsx
+JLINDBLA-M-419G:boras jlindbla$ 
+
+
+# Second round to recruit replacements for non-confirming participants
+
+JLINDBLA-M-419G:boras jlindbla$ ./run.py -n boras24.1 -c result\ -\ 4.40310.xlsx 
+INFO:swedish_sortition:Using candidate pool pool-boras24.1.csv with 105 candidates
+INFO:swedish_sortition:Generating confirmed participants pool file
+INFO:swedish_sortition:Wrote confirmed pool file pool-boras24.1-confirmed.csv with 42/105 confirmed candidates
+JLINDBLA-M-419G:boras jlindbla$ mv pool-boras24.1-confirmed.csv pool-boras24.2.csv
+
+# Removed 9 non-confirmed participants
+
+INFO:swedish_sortition:Using candidate pool pool-boras24.2.csv with 96 candidates
+INFO:swedish_sortition:Creating new criteria file
+INFO:swedish_sortition:Created criteria file for 42 participants
+INFO:swedish_sortition:Starting sortition
+INFO:swedish_sortition:Running 1000000 random participant draws
+INFO:swedish_sortition:Reading pool file
+INFO:swedish_sortition:Some candidates already confirmed
+INFO:swedish_sortition:Already confirmed participants: 33
+INFO:swedish_sortition:Reading criteria file criteria-boras24.2-42.json
+INFO:swedish_sortition:33 participants already confirmed
+INFO:swedish_sortition:42 participants to be selected
+Sample 1 (distance: 5.533319320285148)
+Sample 6 (distance: 4.445857030719189)
+Sample 917 (distance: 4.4338048886960655)
+Sample 1091 (distance: 4.222926678085224)
+Sample 2694 (distance: 4.174435266533261)
+Sample 3404 (distance: 4.018048148767734)
+Sample 10638 (distance: 3.9641959017918618)
+Sample 32745 (distance: 3.906496645709741)
+Sample 63007 (distance: 3.8803413258053294)
+Sample 90908 (distance: 3.802913005939477)
+Sample 90998 (distance: 3.18554337530139)

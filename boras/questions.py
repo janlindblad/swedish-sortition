@@ -6,7 +6,7 @@ import sys, logging
 logger = logging.getLogger("swedish_sortition")
 
 def get_questions(assembly_name):
-  if assembly_name in ['boras24.0','boras24.1']:
+  if assembly_name in ['boras24.0','boras24.1','boras24.2']:
     return {
       '#':None,
       'First name':'first_name',
@@ -37,7 +37,7 @@ emails = set()
 phone_nums = set()
 fl_names = set()
 def check_duplicates(assembly_name, entry):
-  if assembly_name in ['boras24.0','boras24.1']:
+  if assembly_name in ['boras24.0','boras24.1','boras24.2']:
     messages = []
     email = entry['Email']
     if email in emails:

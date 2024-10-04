@@ -1,0 +1,106 @@
+first_name,last_name,personnummer,age,age_group,gender,address,phone_numbers,latitude,longitude,geography,street,postcode,city,region,occupation,housing_type,area_median_income,income_indicator,education,climate_worry,is_confirmed
+Frida,Andersson,46734153322,,30-39 år,Kvinna,frida.andersson@boras.se,,,,VDFS,,,,,Arbete i kommun / region / stat,,,,Högskola mer än 3 år,Mycket orolig.,False
+Malin,Mollsjö,46709611386,,40-49 år,Kvinna,malinmollsjo@hotmail.com,,,,BCT,,,,,Arbete i företag / näringsliv,,,,Högskola,Mycket orolig.,False
+Jon,Persson,46735986706,,40-49 år,Man,jon.v.persson@gmail.com,,,,VDFS,,,,,Arbete i kommun / region / stat,,,,Högskola mer än 3 år,Mycket orolig.,False
+Sofie,Danung,46737520911,,30-39 år,Kvinna,ellensofiepersson@hotmail.com,,,,VDFS,,,,,Arbete i företag / näringsliv,,,,Högskola,Mycket orolig.,False
+Stefan,Lejdebo,46736823703,,65- år,Man,stefan.lejdebo@telia.com,,,,BCT,,,,,Pensionär,,,,Gymnasium,Mycket orolig.,False
+Nina,Bischoff Hansen,46733778871,,16-19 år,Kvinna,ninaernamaria@gmail.com,,,,VDFS,,,,,Går i skola / trainee / arbetsträning,,,,Grundskola,Ganska orolig.,False
+Lenita,Oderfält,46708854003,,50-64 år,Kvinna,lenita@proteko.se,,,,BCT,,,,,Arbete i företag / näringsliv,,,,Högskola,Mycket orolig.,False
+Haleh,Bohlén,46705205799,,40-49 år,Kvinna,haleh.bohlen@gmail.com,,,,GNS,,,,,Arbete i kommun / region / stat,,,,Högskola mer än 3 år,Mycket orolig.,False
+Linda,Alexandersson,46702188715,,40-49 år,Kvinna,linda.alex0101@gmail.com,,,,BCT,,,,,Arbete i kommun / region / stat,,,,Gymnasium,Mycket orolig.,False
+Erika,Larsson,46730630329,,50-64 år,Kvinna,larsson.erika@gmail.com,,,,GNS,,,,,Går i skola / trainee / arbetsträning,,,,Högskola mer än 3 år,Ganska orolig.,False
+Stefan,Medin,46702425863,,65- år,Man,stefan.medin@pantera.se,,,,VDFS,,,,,Pensionär,,,,Grundskola,Ganska orolig.,False
+Tor-Björn,Danielsson,46703212421,,40-49 år,Man,torbjorn@familjendanielsson.com,,,,BCT,,,,,Arbete i företag / näringsliv,,,,Högskola,Ganska orolig.,False
+Frida,Ekeblom,46701430505,,40-49 år,Kvinna,frida.ekeblom@gmail.com,,,,VDFS,,,,,Arbete i företag / näringsliv,,,,Högskola mer än 3 år,Mycket orolig.,False
+Oden,Aghapoor,46763080991,,40-49 år,Man,oden.aghapoor@hotmail.com,,,,BCT,,,,,Arbete i företag / näringsliv,,,,Högskola mer än 3 år,Ganska orolig.,False
+Linnea,Kläth,46760522324,,20-29 år,Kvinna,linnea.klath@politiker.boras.se,,,,GNS,,,,,Arbete i kommun / region / stat,,,,Högskola,Mycket orolig.,False
+Therése,Björklund,46736888760,,30-39 år,Kvinna,therese.bjorklund@politiker.boras.se,,,,VDFS,,,,,Arbete i kommun / region / stat,,,,Högskola mer än 3 år,Ganska orolig.,False
+Magnus,Johansson,46722091813,,40-49 år,Man,magnus.johansson@politiker.boras.se,,,,VDFS,,,,,Arbete i företag / näringsliv,,,,Gymnasium,Ganska orolig.,False
+Marie,Fridén,46734327095,,65- år,Kvinna,marie.friden@politiker.boras.se,,,,BCT,,,,,Annat arbete / ideell organisation,,,,Högskola mer än 3 år,Ganska orolig.,False
+Fredrik,Nättorp,46735253776,,50-64 år,Man,fredrik@seraf.se,,,,BCT,,,,,Arbete i företag / näringsliv,,,,Gymnasium,Inte särskilt orolig.,False
+Vilmer,Lans,46721867430,,16-19 år,Man,vilmer.lans@gmail.com,,,,VDFS,,,,,Går i skola / trainee / arbetsträning,,,,Gymnasium,Mycket orolig.,False
+Susanna,Åkeräng,46701669815,,30-39 år,Kvinna,susanna.akerang@hotmail.com,,,,VDFS,,,,,Arbete i företag / näringsliv,,,,Högskola,Mycket orolig.,False
+Joakim,Hubbe,46760171898,,50-64 år,Man,joakim.hubbe@gmail.com,,,,GNS,,,,,Arbete i företag / näringsliv,,,,Högskola,Ganska orolig.,False
+Urban,Klang,46763298489,,40-49 år,Man,urbanklang@gmail.com,,,,GNS,,,,,Arbete i företag / näringsliv,,,,Gymnasium,Mycket orolig.,False
+Matthias,Rezac,46730203065,,50-64 år,Man,rezac66@gmail.com,,,,BCT,,,,,Arbete i kommun / region / stat,,,,Högskola mer än 3 år,Mycket orolig.,False
+Christian,Thuné,46708590867,,30-39 år,Man,Thune85@gmail.com,,,,GNS,,,,,Arbete i kommun / region / stat,,,,Högskola,Ganska orolig.,False
+Carl-Ansers,Andell,46706769637,,50-64 år,Man,calleandell@gmail.com,,,,VDFS,,,,,Arbete i företag / näringsliv,,,,Gymnasium,Inte alls orolig.,False
+Thomas,Wingren,46736222113,,40-49 år,Man,thowi.redovisning@gmail.com,,,,GNS,,,,,Arbete i företag / näringsliv,,,,Högskola mer än 3 år,Ganska orolig.,False
+Kent,Dahlqvist,46703262228,,50-64 år,Man,info@merkprodukter.se,,,,VDFS,,,,,Arbete i företag / näringsliv,,,,Gymnasium,Inte alls orolig.,False
+Tage,Andersson,46706292017,,65- år,Man,tage.r.andersson@gmail.com,,,,GNS,,,,,Pensionär,,,,Högskola,Mycket orolig.,False
+Elin,Peterson,46706368053,,40-49 år,Kvinna,Finemangelin@gmail.se,,,,BCT,,,,,Arbete i företag / näringsliv,,,,Högskola,Mycket orolig.,False
+Adrián,Abuín Pose,46793559241,,20-29 år,Man,abuin.adrian@gmail.com,,,,GNS,,,,,Går i skola / trainee / arbetsträning,,,,Gymnasium,Mycket orolig.,False
+Hans,Gustavsson,46706229902,,50-64 år,Man,hans_gustavsson@hotmail.com,,,,BCT,,,,,Arbete i företag / näringsliv,,,,Gymnasium,Ganska orolig.,False
+Måns,Bergenzaun,46721731178,,40-49 år,Man,bergenzaun@gmail.com,,,,VDFS,,,,,Arbete i företag / näringsliv,,,,Högskola mer än 3 år,Ganska orolig.,False
+Pia,Johansson,46725273388,,50-64 år,Kvinna,pia.harrysson@gmail.com,,,,BCT,,,,,Arbete i kommun / region / stat,,,,Gymnasium,Ganska orolig.,False
+Torbjörn,Johansson,46704963986,,65- år,Man,torbjorntobex@gmail.com,,,,BCT,,,,,Pensionär,,,,Högskola,Inte alls orolig.,False
+Frida,Persson,46737642496,,30-39 år,Kvinna,fridaceciliapersson@gmail.com,,,,GNS,,,,,Arbete i företag / näringsliv,,,,Högskola,Mycket orolig.,False
+Nikolas,Mallek,46737590350,,30-39 år,Man,nikolas.mallek86@live.se,,,,BCT,,,,,Annat arbete / ideell organisation,,,,Högskola,Ganska orolig.,False
+Lars,Axelsson,46706988712,,65- år,Man,lasse.axelson@gmail.com,,,,BCT,,,,,Pensionär,,,,Gymnasium,Inte särskilt orolig.,False
+Mats,Wahlström,46761497372,,50-64 år,Man,20.19.18.mw+kli@gmail.com,,,,VDFS,,,,,Arbete i företag / näringsliv,,,,Högskola,Inte särskilt orolig.,False
+Adina,Karimi,46732675754,,20-29 år,Kvinna,adinakarimi55@gmail.com,,,,GNS,,,,,Går i skola / trainee / arbetsträning,,,,Högskola,Ganska orolig.,False
+Jessica,Rembeck,46762165678,,50-64 år,Kvinna,hmj73@hotmail.com,,,,BCT,,,,,Arbete i kommun / region / stat,,,,Högskola mer än 3 år,Ganska orolig.,False
+Susanne,Ajdukovic,46706172871,,50-64 år,Kvinna,susannesgbg@hotmail.com,,,,BCT,,,,,Arbete i företag / näringsliv,,,,Högskola,Inte särskilt orolig.,False
+Mariann,Pettersson,46700336768,,65- år,Kvinna,marpet1@live.se,,,,BCT,,,,,Pensionär,,,,Högskola mer än 3 år,Mycket orolig.,False
+Oliver,Carlsson,46767888815,,20-29 år,Man,oliverc981@icloud.com,,,,GNS,,,,,Arbete i företag / näringsliv,,,,Gymnasium,Inte särskilt orolig.,False
+Jessica,Lindström,46725829645,,40-49 år,Kvinna,jessica.s.lindstrom@gmail.com,,,,GNS,,,,,Arbete i kommun / region / stat,,,,Högskola mer än 3 år,Mycket orolig.,False
+Alicia,Falk,46703137776,,20-29 år,Kvinna,aliciafalk99@gmail.com,,,,GNS,,,,,Arbete i kommun / region / stat,,,,Högskola,Ganska orolig.,False
+Linnea,Lindfors,46769456345,,20-29 år,Kvinna,linnea.lindfors@hotmail.com,,,,GNS,,,,,Arbete i företag / näringsliv,,,,Högskola mer än 3 år,Ganska orolig.,False
+Kent,Jogeland,46703470262,,65- år,Man,kentjogeland@gmail.com,,,,BCT,,,,,Pensionär,,,,Grundskola,Inte särskilt orolig.,False
+Jonny,Wikström,46703321764,,65- år,Man,jonnywikstrom@icloud.com,,,,GNS,,,,,Pensionär,,,,Gymnasium,Mycket orolig.,False
+Josefin,Elofsson,46762186913,,30-39 år,Kvinna,Josefinelofsson@hotmail.com,,,,BCT,,,,,Arbete i företag / näringsliv,,,,Gymnasium,Ganska orolig.,False
+Ann-Christine,Friberg,46763969596,,50-64 år,Kvinna,friberganki@hotmail.com,,,,BCT,,,,,Arbete i kommun / region / stat,,,,Högskola,Mycket orolig.,False
+Marie-Louise,Ardin,46763394416,,50-64 år,Kvinna,mialia67@hotmail.com,,,,VDFS,,,,,Arbete i kommun / region / stat,,,,Högskola,Ganska orolig.,False
+Åsa,Haggren,46703158891,,65- år,Kvinna,asa.haggren@protonmail.com,,,,VDFS,,,,,Pensionär,,,,Högskola mer än 3 år,Mycket orolig.,False
+Magnus,Larsson,46708132285,,40-49 år,Man,mrmagnuz@gmail.com,,,,VDFS,,,,,Arbete i företag / näringsliv,,,,Gymnasium,Ganska orolig.,False
+Leonard,Drake,46708663395,,30-39 år,Man,leonard@drakeafh.se,,,,VDFS,,,,,Arbete i företag / näringsliv,,,,Gymnasium,Ganska orolig.,False
+Bo,Hultgren,46739394807,,65- år,Man,bohu@live.se,,,,GNS,,,,,Pensionär,,,,Högskola,Ganska orolig.,False
+Frances,Hultgren,46704998091,,65- år,Kvinna,francesmhultgren@gmail.com,,,,BCT,,,,,Pensionär,,,,Högskola mer än 3 år,Mycket orolig.,False
+Linda,McGurk,46793012016,,40-49 år,Kvinna,linda@lindamcgurk.com,,,,VDFS,,,,,Arbete i företag / näringsliv,,,,Högskola mer än 3 år,Mycket orolig.,False
+Anna,Kohlström,46707419962,,40-49 år,Kvinna,anna_kohlstrom@hotmail.com,,,,VDFS,,,,,Arbete i kommun / region / stat,,,,Gymnasium,Ganska orolig.,False
+Lena,Bennet,46730486047,,65- år,Kvinna,lena@bennet.nu,,,,GNS,,,,,Pensionär,,,,Högskola,Ganska orolig.,False
+Berit,Skoglöv,46738478615,,65- år,Kvinna,bskoflov@gmail.com,,,,BCT,,,,,Pensionär,,,,Högskola,Mycket orolig.,False
+Victoria,Kinnunen,46735711342,,30-39 år,Kvinna,victoria.kinnunen@hotmail.com,,,,VDFS,,,,,Arbete i företag / näringsliv,,,,Högskola,Ganska orolig.,False
+Gerlinde,Wawatschek Bergh,46702849295,,65- år,Kvinna,gerlinde.bergh@gmail.com,,,,GNS,,,,,Pensionär,,,,Högskola,Ganska orolig.,False
+Sofia,Thelin,46731535457,,40-49 år,Kvinna,thelin80@gmail.com,,,,GNS,,,,,Pensionär,,,,Högskola,Mycket orolig.,False
+Edwin,Bertilsson,46727350555,,20-29 år,Man,edwin.bertilsson@gmail.com,,,,GNS,,,,,Går i skola / trainee / arbetsträning,,,,Gymnasium,Ganska orolig.,False
+Malin,Ekvall,46739523263,,40-49 år,Kvinna,ryssbybacke@hotmail.com,,,,GNS,,,,,Arbete i företag / näringsliv,,,,Gymnasium,Inte särskilt orolig.,False
+John,Äärlaht,46736302416,,50-64 år,Man,aarlaht@hotmail.com,,,,VDFS,,,,,Arbete i företag / näringsliv,,,,Gymnasium,Ganska orolig.,False
+Mirjam,Rafalski,46793510022,,40-49 år,Kvinna,mirjam.rafalski@gmail.com,,,,BCT,,,,,Arbete i kommun / region / stat,,,,Högskola mer än 3 år,Ganska orolig.,False
+Ulla,Bergström,46722795125,,65- år,Kvinna,ulla.brgstrm@gmail.com,,,,GNS,,,,,Pensionär,,,,Högskola,Ganska orolig.,False
+Eva,Peltz,46704323425,,65- år,Kvinna,e.peltz@telia.com,,,,VDFS,,,,,Arbestslös / Annat,,,,Gymnasium,Ganska orolig.,False
+Sara,Sundell,46701571171,,40-49 år,Kvinna,sara_sundell@hotmail.com,,,,VDFS,,,,,Arbestslös / Annat,,,,Högskola,Ganska orolig.,False
+Julia,Lindahl,46738378717,,30-39 år,Kvinna,julialindahl@live.se,,,,BCT,,,,,Arbete i kommun / region / stat,,,,Högskola mer än 3 år,Ganska orolig.,False
+Arne,Skoglarsson,46725135252,,65- år,Man,skoglarsson1913@hotmail.com,,,,BCT,,,,,Pensionär,,,,Gymnasium,Mycket orolig.,False
+Camilla,Lundberg,46703073611,,50-64 år,Kvinna,camlu2@hotmail.com,,,,BCT,,,,,Arbete i kommun / region / stat,,,,Högskola mer än 3 år,Inte särskilt orolig.,False
+Camilla,Olsson,46706050956,,40-49 år,Kvinna,camilla_e_o@hotmail.com,,,,VDFS,,,,,Annat arbete / ideell organisation,,,,Högskola mer än 3 år,Mycket orolig.,False
+Petra,Forsblad,46723951171,,50-64 år,Kvinna,forsbladpetra@outlook.com,,,,VDFS,,,,,Arbete i företag / näringsliv,,,,Högskola mer än 3 år,Ganska orolig.,False
+Felizia,Hilldén,46730767771,,20-29 år,Kvinna,Felizia.Hillden@gmail.com,,,,BCT,,,,,Annat arbete / ideell organisation,,,,Högskola,Ganska orolig.,False
+Åke,Jansson,46705424865,,65- år,Man,ake.j@nsson.nu,,,,VDFS,,,,,Pensionär,,,,Grundskola,Ganska orolig.,False
+Ulla-Britt,Mattsson,46761306008,,65- år,Kvinna,ullabritt.mattsson54@gmail.com,,,,VDFS,,,,,Pensionär,,,,Högskola mer än 3 år,Mycket orolig.,False
+Pia,Bergenzaun,46704457222,,40-49 år,Kvinna,pbergenzaun@gmail.com,,,,VDFS,,,,,Arbete i företag / näringsliv,,,,Högskola,Ganska orolig.,False
+Alnus,Glutinosa,46709819982,,50-64 år,Annat,thomas.tip.laurien@gmail.com,,,,BCT,,,,,Arbestslös / Annat,,,,Högskola mer än 3 år,Mycket orolig.,False
+Anneli,Rasmussen,46766111930,,50-64 år,Kvinna,anneli.rasmussen@live.se,,,,VDFS,,,,,Arbete i kommun / region / stat,,,,Högskola mer än 3 år,Mycket orolig.,False
+Frida,Kjellqvist,46739228222,,40-49 år,Kvinna,f.kjellqvist@gmail.com,,,,BCT,,,,,Går i skola / trainee / arbetsträning,,,,Gymnasium,Ganska orolig.,False
+Boran,Gencoglu,46727404499,,30-39 år,Man,borangencoglu94@gmail.com,,,,BCT,,,,,Arbete i kommun / region / stat,,,,Högskola mer än 3 år,Ganska orolig.,False
+Nina,Kymäläinen,46739694603,,50-64 år,Kvinna,niky1969@icloud.com,,,,GNS,,,,,Arbestslös / Annat,,,,Gymnasium,Mycket orolig.,False
+Gerd,Wikström,46707891131,,30-39 år,Kvinna,gerd.m.abrahamsson@gmail.com,,,,BCT,,,,,Arbete i kommun / region / stat,,,,Högskola mer än 3 år,Ganska orolig.,False
+Lars,Stokka,4790111679,,65- år,Man,stokka58@gmail.com,,,,BCT,,,,,Pensionär,,,,Högskola mer än 3 år,Ganska orolig.,False
+Jane,Svensson,46735720385,,50-64 år,Kvinna,janerottpeter@yahoo.com,,,,BCT,,,,,Arbete i kommun / region / stat,,,,Högskola mer än 3 år,Mycket orolig.,False
+solveig,Lindh Josefsson,46730661134,,65- år,Kvinna,lindhsolveig@gmail.com,,,,GNS,,,,,Pensionär,,,,Högskola,Mycket orolig.,False
+Charlotte,Ehn,46702487849,,50-64 år,Kvinna,lotta.ehn@telia.com,,,,BCT,,,,,Pensionär,,,,Högskola mer än 3 år,Mycket orolig.,False
+Linda,Andersson,46703459885,,40-49 år,Kvinna,linda.andersson@acgaccent.se,,,,BCT,,,,,Arbete i företag / näringsliv,,,,Högskola mer än 3 år,Mycket orolig.,False
+Susanna,Karlsson,46702902650,,40-49 år,Kvinna,karlsson.susanna@gmail.com,,,,GNS,,,,,Arbestslös / Annat,,,,Högskola mer än 3 år,Mycket orolig.,False
+Andreas,Åkervall,46707298381,,30-39 år,Man,Andreas@helkom.se,,,,BCT,,,,,Arbete i företag / näringsliv,,,,Högskola mer än 3 år,Ganska orolig.,False
+Charles,Reed,46709947107,,65- år,Man,charles.reed@telia.com,,,,GNS,,,,,Arbete i företag / näringsliv,,,,Högskola mer än 3 år,Mycket orolig.,False
+Veronika,Delin,46760738373,,30-39 år,Annat,veronika.delin@live.com,,,,VDFS,,,,,Arbestslös / Annat,,,,Gymnasium,Ganska orolig.,False
+Kristina,Nilson,46739399084,,50-64 år,Kvinna,kristina.nilson@hotmail.com,,,,BCT,,,,,Arbete i företag / näringsliv,,,,Högskola mer än 3 år,Mycket orolig.,False
+Linn,Hultgren,46763455023,,40-49 år,Kvinna,linn_hultgren@hotmail.com,,,,GNS,,,,,Arbete i kommun / region / stat,,,,Högskola mer än 3 år,Mycket orolig.,False
+Maria,Åkerlind Hognert,46705898338,,40-49 år,Kvinna,maria_bopf@hotmail.com,,,,VDFS,,,,,Arbete i kommun / region / stat,,,,Högskola,Mycket orolig.,False
+Patrik,Zackrisson,46703691137,,50-64 år,Man,patrik.zackrisson@boras.se,,,,BCT,,,,,Arbete i kommun / region / stat,,,,Gymnasium,Mycket orolig.,False
+Marriam,Matovu,46702170350,,50-64 år,Kvinna,marriam_sanyu@yahoo.se,,,,BCT,,,,,Arbete i kommun / region / stat,,,,Gymnasium,Mycket orolig.,False
+Rebecka,Ringman,46704777066,,40-49 år,Kvinna,rebecka@ringman.se,,,,VDFS,,,,,Går i skola / trainee / arbetsträning,,,,Högskola mer än 3 år,Mycket orolig.,False
+Andreas,Barrstrand,46703525737,,40-49 år,Man,andreas@hydriafastigheter.se,,,,VDFS,,,,,Arbete i företag / näringsliv,,,,Högskola mer än 3 år,Ganska orolig.,False
+Ursula,Bellinger,46735517584,,50-64 år,Kvinna,ursula.bellinger@gmx.de,,,,BCT,,,,,Arbete i kommun / region / stat,,,,Högskola mer än 3 år,Ganska orolig.,False
+Sara,Hidendahl,46706276227,,30-39 år,Kvinna,sara@hidendahl.nu,,,,VDFS,,,,,Arbete i företag / näringsliv,,,,Högskola,Ganska orolig.,False
+Mostafa,Zaarour,46739987445,,20-29 år,Man,mostafa.zaarour@hotmail.com,,,,BCT,,,,,Arbete i kommun / region / stat,,,,Högskola,Inte särskilt orolig.,False
